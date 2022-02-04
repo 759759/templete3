@@ -429,7 +429,7 @@
   @media (max-width: 991px) {
     .landing .image img {
       
-      height: calc(100vh - 390px);
+      height: calc(92vh - 390px);
       overflow: hidden;
       width: calc(100vw - 30px);
     }
