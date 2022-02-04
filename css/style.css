@@ -353,7 +353,7 @@
 
     @media (max-width:991px) {
       .landing .container {
-        min-height: calc(100vh - 72px);
+        min-height: calc(93vh - 72px);
         display: flex;
         flex-direction: column;
         align-items: center;
